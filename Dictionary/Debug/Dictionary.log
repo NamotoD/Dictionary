@@ -1,0 +1,21 @@
+﻿  Word.cpp
+  Verb.cpp
+  Trigrams.cpp
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\trigrams.cpp(28): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\trigrams.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\trigrams.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  ProperNoun.cpp
+  Preposition.cpp
+  NounAndVerb.cpp
+  Noun.cpp
+  MiscWord.cpp
+  Adverb.cpp
+  Main.cpp
+  Dictionary.cpp
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\dictionary.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\dictionary.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\dictionary.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\egon jouda\documents\uni\year 2\year_2sem_1\object-oriented programming with c++\assignment\dictionary_v7\dictionary\dictionary.cpp(325): warning C4018: '<': signed/unsigned mismatch
+  Adjective.cpp
+  Generating Code...
+  Dictionary.vcxproj -> C:\Users\egon jouda\Documents\UNI\Year 2\Year_2Sem_1\Object-Oriented Programming with C++\Assignment\Dictionary_v7\Debug\Dictionary.exe

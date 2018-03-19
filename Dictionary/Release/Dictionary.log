@@ -1,0 +1,12 @@
+﻿  Dictionary.cpp
+Dictionary.cpp(36): warning C4018: '<': signed/unsigned mismatch
+Dictionary.cpp(52): warning C4018: '<': signed/unsigned mismatch
+Dictionary.cpp(165): warning C4018: '<': signed/unsigned mismatch
+Dictionary.cpp(319): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  4 of 1009 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dictionary.vcxproj -> C:\Users\egon jouda\Desktop\Year_2Sem_1\Object-Oriented Programming with C++\Assignment\Part2\Dictionary_v7\Release\Dictionary.exe
+  Dictionary.vcxproj -> C:\Users\egon jouda\Desktop\Year_2Sem_1\Object-Oriented Programming with C++\Assignment\Part2\Dictionary_v7\Release\Dictionary.pdb (Full PDB)
